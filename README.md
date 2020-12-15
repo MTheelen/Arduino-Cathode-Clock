@@ -1,6 +1,7 @@
 # Arduino Cathode Clock
 
--Version 0.1.0
+_Version 0.1.0_
+
 First setup to have the Arduino Nano control the 74HC595 shift registers light-up the right LEDs in the 7-segment LED displays depending on the time controlled by the RTC module. This code needs a lot of refactoring still.
 
 ## Required Parts
